@@ -7,15 +7,45 @@ header{
 ul{
     color: white;
 }
-p{
+#boat1{
     color: white;
-    width: 350px;
-    
-    text-align: justify;
+    width: 600px;
+    display: inline-block;
+    text-align: center;  
 }
+#boat2{
+  color: white;
+    width: 600px;
+    display: inline-block;
+    text-align: center;
+}
+#boat3{
+  color: white;
+    width: 600px;
+    display: inline-block;
+    text-align: center;
+}
+#goat1{
+   display: inline-block;
+    text-align: center;
+    width: 600px;
+
+}
+#goat2{
+   display: inline-block;
+    text-align: center;
+    width: 600px;
+
+}
+#goat3{
+   display: inline-block;
+    text-align: center;
+    width: 600px;
+
+}
+
 body{
     background-color: #008584;
-   
 
 }
 #navbar {
@@ -44,8 +74,24 @@ body{
 }
 .active{
   background-color: gray;
+  color: gray;
 }
 #float:last-child{
   border-right: none;
 }
+#palestrantes{
+  text-align: center;
+}
+#pales{
+  text-align: center;
+  color: white;
+}
+footer{
+  text-align: center;
+  color: white;
+}
+h2{
+  color: white;
+}
+
 
